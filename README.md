@@ -2,7 +2,7 @@
 
 A beautiful, ready-to-use component library built with Tailwind CSS for Angular applications. Copy and paste components directly into your project.
 
-![Component Library Screenshot](screens/Capture%20d'écran%202025-10-16%20224324.png)
+![Component Library Screenshot](./screens/Capture%20d'écran%202025-10-16%20224324.png)
 
 ## Features
 
