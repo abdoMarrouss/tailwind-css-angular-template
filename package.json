@@ -1,6 +1,7 @@
 {
-  "name": "my-ssr-app",
+  "name": "tailwind-css-template",
   "version": "0.0.0",
+  "author": {"name": "marrouss adeblilah"},
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
