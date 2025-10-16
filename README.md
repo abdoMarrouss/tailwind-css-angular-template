@@ -24,8 +24,8 @@ A beautiful, ready-to-use component library built with Tailwind CSS for Angular 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/abdoMarrouss/tailwind-css-angular-template
+cd tailwind-css-angular-template
 ```
 
 2. Install dependencies:
