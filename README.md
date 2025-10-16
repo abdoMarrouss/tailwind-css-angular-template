@@ -63,7 +63,7 @@ MIT License - feel free to use this in your projects!
 
 ## Author
 
-Your Name - [Your GitHub Profile](https://github.com/abdoMarrouss)
+Marrouss Abdelilah - [AbdoMarrouss](https://github.com/abdoMarrouss)
 
 ---
 
